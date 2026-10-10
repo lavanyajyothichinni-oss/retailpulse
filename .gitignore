@@ -1,0 +1,7 @@
+venv/
+datarawsynthetic/
+datarawonline_retail/
+*.parquet
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

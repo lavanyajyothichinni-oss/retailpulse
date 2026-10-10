@@ -1,0 +1,4 @@
+model,MAPE_percent
+Prophet,7.66
+LSTM,10.62
+Ensemble,7.73
