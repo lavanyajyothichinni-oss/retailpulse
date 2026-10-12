@@ -12254,7 +12254,7 @@ ST03,SKU02538,EverydayPlus Ice Cream 2L,Frozen Foods,STOCKOUT_RISK,73,0.61,0.47,
 ST12,SKU04964,FreshFarm Flour & Atta 100g,Grocery,NORMAL,133,0.04,0.03,2.0,3.0,False,0.0,0.0,127.0
 ST25,SKU03662,BasicNeeds Surface Cleaners Pack of 6,Home Care,NORMAL,90,0.0,0.0,0.0,0.0,False,0.0,0.0,90.0
 ST28,SKU02029,PurePlus First Aid Family Pack,Health & Wellness,NORMAL,62,0.11,0.09,3.0,4.0,False,0.0,0.0,51.0
-ST27,SKU04456,FamilyChoice Laundry Pack of 12,Home Care,NORMAL,7,0.23,0.18,4.0,6.0,False,3.0,307.65,0.0
+ST27,SKU04456,FamilyChoice Laundry Pack of 12,Home Care,NORMAL,7,0.23,0.18,4.0,6.0,False,0.0,0.0,0.0
 ST17,SKU01921,SoftTouch Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORMAL,34,0.06,0.04,2.0,3.0,False,0.0,0.0,28.0
 ST08,SKU00037,EverydayPlus Energy Drinks 100g,Beverages,NORMAL,104,0.01,0.01,1.0,2.0,False,0.0,0.0,102.0
 ST28,SKU00639,GreenValley Ice Cream Large,Frozen Foods,NORMAL,31,0.06,0.04,2.0,3.0,False,0.0,0.0,25.0
@@ -12354,7 +12354,7 @@ ST21,SKU00303,NatureBlend Pest Control Large,Home Care,NORMAL,67,0.12,0.09,3.0,4
 ST07,SKU02349,GoldenHarvest Flour & Atta Small,Grocery,NORMAL,85,0.11,0.09,3.0,4.0,False,0.0,0.0,74.0
 ST19,SKU00566,PrimeCare Women's Wear 1kg,Apparel & Footwear,NORMAL,93,0.11,0.09,3.0,4.0,False,0.0,0.0,82.0
 ST13,SKU03794,CleanWave Notebooks 250g,Stationery & Office,NORMAL,21,0.02,0.02,1.0,2.0,False,0.0,0.0,18.0
-ST06,SKU03171,PrimeCare Tea 100g,Beverages,STOCKOUT_RISK,13,0.41,0.32,5.0,8.0,False,2.0,199.4,0.0
+ST06,SKU03171,PrimeCare Tea 100g,Beverages,STOCKOUT_RISK,13,0.41,0.32,5.0,8.0,False,0.0,0.0,0.0
 ST25,SKU02704,GreenValley Tea Small,Beverages,NORMAL,155,0.0,0.0,0.0,0.0,False,0.0,0.0,155.0
 ST20,SKU02754,FreshFarm OTC Medicine 1L,Health & Wellness,NORMAL,62,0.23,0.18,4.0,6.0,False,0.0,0.0,41.0
 ST19,SKU03821,CityFresh Air Fresheners Family Pack,Home Care,NORMAL,23,0.0,0.0,0.0,0.0,False,0.0,0.0,23.0
@@ -12420,7 +12420,7 @@ ST05,SKU04524,QuickBite Cookware 500g,Home & Kitchen,NORMAL,5,0.04,0.03,2.0,3.0,
 ST23,SKU01767,PrimeCare Milk 2L,Dairy & Bakery,NORMAL,109,0.01,0.01,1.0,2.0,False,0.0,0.0,107.0
 ST23,SKU02696,PureLife Dishwashing 100g,Home Care,NORMAL,132,0.01,0.01,1.0,2.0,False,0.0,0.0,130.0
 ST26,SKU02311,EverydayPlus Oral Care 250g,Personal Care,NORMAL,229,0.01,0.01,1.0,2.0,False,0.0,0.0,227.0
-ST27,SKU03163,GreenValley Writing Instruments Small,Stationery & Office,NORMAL,5,0.11,0.09,3.0,4.0,False,1.0,235.91,0.0
+ST27,SKU03163,GreenValley Writing Instruments Small,Stationery & Office,NORMAL,5,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST16,SKU00122,MetroBrand Cooking Oil 100g,Grocery,NORMAL,33,0.01,0.01,1.0,2.0,False,0.0,0.0,31.0
 ST11,SKU01819,NutriPlus Storage & Containers 250ml,Home & Kitchen,NORMAL,83,0.24,0.19,4.0,6.0,False,0.0,0.0,61.0
 ST07,SKU01154,EverydayPlus Storage & Containers 1L,Home & Kitchen,NORMAL,55,0.14,0.11,3.0,4.0,False,0.0,0.0,41.0
@@ -12532,7 +12532,7 @@ ST03,SKU00840,PremiumSelect Kids Wear 100g,Apparel & Footwear,NORMAL,196,0.03,0.
 ST24,SKU01799,HomeStyle Cooking Oil 500g,Grocery,NORMAL,35,0.02,0.02,1.0,2.0,False,0.0,0.0,32.0
 ST28,SKU03332,EliteHome Namkeen 2kg,Snacks & Confectionery,NORMAL,20,0.04,0.03,2.0,3.0,False,0.0,0.0,14.0
 ST30,SKU00292,GreenValley Bread 500g,Dairy & Bakery,NORMAL,21,0.06,0.04,2.0,3.0,False,0.0,0.0,15.0
-ST09,SKU01775,CityFresh Hair Care 2L,Personal Care,STOCKOUT_RISK,38,2.23,1.73,12.0,25.0,False,26.0,3810.04,0.0
+ST09,SKU01775,CityFresh Hair Care 2L,Personal Care,STOCKOUT_RISK,38,2.23,1.73,12.0,25.0,False,0.0,0.0,0.0
 ST02,SKU01201,NutriPlus Cooking Oil Family Pack,Grocery,NORMAL,28,0.06,0.04,2.0,3.0,False,0.0,0.0,22.0
 ST23,SKU04735,PremiumSelect Pulses & Lentils 2L,Grocery,NORMAL,32,0.16,0.12,3.0,4.0,False,0.0,0.0,18.0
 ST14,SKU04069,EverydayPlus Frozen Vegetables 1kg,Frozen Foods,NORMAL,115,0.08,0.06,2.0,3.0,False,0.0,0.0,107.0
@@ -12985,7 +12985,7 @@ ST26,SKU01044,SmartBuy Mobile Accessories 250g,Electronics & Accessories,NORMAL,
 ST05,SKU04929,CrispKing Footwear 2kg,Apparel & Footwear,NORMAL,221,0.16,0.12,3.0,4.0,False,0.0,0.0,207.0
 ST22,SKU02726,ZestyCo Ice Cream 100g,Frozen Foods,NORMAL,259,0.04,0.03,2.0,3.0,False,0.0,0.0,253.0
 ST25,SKU04970,FamilyChoice Rice & Grains Family Pack,Grocery,NORMAL,27,0.0,0.0,0.0,0.0,False,0.0,0.0,27.0
-ST15,SKU03710,CityFresh Laundry Medium,Home Care,NORMAL,4,0.1,0.08,2.0,3.0,False,1.0,71.85,0.0
+ST15,SKU03710,CityFresh Laundry Medium,Home Care,NORMAL,4,0.1,0.08,2.0,3.0,False,0.0,0.0,0.0
 ST25,SKU01900,PremiumSelect First Aid 500g,Health & Wellness,NORMAL,133,0.03,0.03,2.0,3.0,False,0.0,0.0,128.0
 ST12,SKU00729,TrueTaste Ice Cream 250g,Frozen Foods,NORMAL,270,0.03,0.03,1.0,2.0,False,0.0,0.0,266.0
 ST21,SKU04700,TrueTaste Storage & Containers 250g,Home & Kitchen,NORMAL,23,0.07,0.05,2.0,3.0,False,0.0,0.0,16.0
@@ -13033,7 +13033,7 @@ ST01,SKU04931,EverydayPlus Milk Family Pack,Dairy & Bakery,NORMAL,30,0.07,0.05,3
 ST13,SKU00140,ZestyCo Dishwashing Pack of 12,Home Care,SLOW_MOVER,112,0.01,0.01,1.0,2.0,False,0.0,0.0,110.0
 ST08,SKU04154,TrueTaste Spices & Seasoning Medium,Grocery,STOCKOUT_RISK,15,3.8,2.94,13.0,34.0,True,87.0,19546.29,0.0
 ST13,SKU00485,DailyBest Namkeen 250ml,Snacks & Confectionery,NORMAL,174,0.04,0.03,2.0,3.0,False,0.0,0.0,168.0
-ST20,SKU00092,NutriPlus OTC Medicine 2kg,Health & Wellness,NORMAL,10,0.31,0.24,4.0,6.0,False,2.0,1260.76,0.0
+ST20,SKU00092,NutriPlus OTC Medicine 2kg,Health & Wellness,NORMAL,10,0.31,0.24,4.0,6.0,False,0.0,0.0,0.0
 ST01,SKU04570,QuickBite Juices 1L,Beverages,NORMAL,55,0.13,0.1,3.0,4.0,False,0.0,0.0,42.0
 ST18,SKU03026,CityFresh Ice Cream Medium,Frozen Foods,NORMAL,126,0.09,0.07,3.0,4.0,False,0.0,0.0,116.0
 ST10,SKU03871,ValueChoice Coffee 500g,Beverages,NORMAL,24,0.06,0.04,3.0,4.0,False,0.0,0.0,17.0
@@ -13320,7 +13320,7 @@ ST15,SKU02119,FreshFarm Bottled Water 500ml,Beverages,NORMAL,43,0.01,0.01,1.0,2.
 ST11,SKU02040,CityFresh Vitamins & Supplements 250g,Health & Wellness,NORMAL,25,0.21,0.16,4.0,6.0,False,0.0,0.0,6.0
 ST05,SKU01177,GreenValley Mobile Accessories 2kg,Electronics & Accessories,NORMAL,5,0.01,0.01,1.0,2.0,False,0.0,0.0,3.0
 ST15,SKU03498,PurePlus Vitamins & Supplements Pack of 12,Health & Wellness,NORMAL,71,0.04,0.03,2.0,3.0,False,0.0,0.0,65.0
-ST28,SKU02974,CleanWave OTC Medicine Large,Health & Wellness,NORMAL,8,0.19,0.15,4.0,6.0,False,1.0,570.27,0.0
+ST28,SKU02974,CleanWave OTC Medicine Large,Health & Wellness,NORMAL,8,0.19,0.15,4.0,6.0,False,0.0,0.0,0.0
 ST04,SKU02226,GoldenHarvest Office Supplies 1kg,Stationery & Office,NORMAL,17,0.06,0.04,2.0,3.0,False,0.0,0.0,11.0
 ST08,SKU01846,BasicNeeds Spices & Seasoning Large,Grocery,NORMAL,75,0.02,0.02,1.0,2.0,False,0.0,0.0,72.0
 ST16,SKU00629,FreshFarm Eggs 1L,Dairy & Bakery,NORMAL,6,0.07,0.05,3.0,4.0,False,0.0,0.0,0.0
@@ -13496,7 +13496,7 @@ ST10,SKU04211,EverydayPlus Spices & Seasoning 2L,Grocery,NORMAL,46,0.1,0.08,3.0,
 ST19,SKU00944,CityFresh Oral Care Pack of 12,Personal Care,NORMAL,15,0.03,0.03,2.0,3.0,False,0.0,0.0,10.0
 ST11,SKU04251,DailyBest Oral Care 250ml,Personal Care,NORMAL,33,0.12,0.09,3.0,4.0,False,0.0,0.0,21.0
 ST17,SKU01238,PremiumSelect Eggs Large,Dairy & Bakery,NORMAL,85,0.02,0.02,1.0,2.0,False,0.0,0.0,82.0
-ST29,SKU04750,SunriseFoods OTC Medicine 2L,Health & Wellness,NORMAL,12,0.43,0.34,5.0,8.0,False,4.0,2434.6,0.0
+ST29,SKU04750,SunriseFoods OTC Medicine 2L,Health & Wellness,NORMAL,12,0.43,0.34,5.0,8.0,False,0.0,0.0,0.0
 ST06,SKU02252,MetroBrand Ready Meals 2kg,Frozen Foods,NORMAL,44,0.02,0.02,1.0,2.0,False,0.0,0.0,41.0
 ST05,SKU04961,FamilyChoice Ice Cream 500ml,Frozen Foods,NORMAL,128,0.02,0.02,1.0,2.0,False,0.0,0.0,125.0
 ST27,SKU03032,GoldenHarvest Chips & Crisps Pack of 6,Snacks & Confectionery,NORMAL,188,0.04,0.03,2.0,3.0,False,0.0,0.0,182.0
@@ -13577,7 +13577,7 @@ ST14,SKU02991,FreshFarm Air Fresheners Pack of 6,Home Care,NORMAL,46,0.08,0.06,3
 ST22,SKU04512,CrispKing Ice Cream Small,Frozen Foods,NORMAL,28,0.1,0.08,3.0,4.0,False,0.0,0.0,18.0
 ST15,SKU04255,FamilyChoice Eggs 1kg,Dairy & Bakery,NORMAL,22,0.17,0.13,4.0,5.0,False,0.0,0.0,6.0
 ST02,SKU02561,FamilyChoice Pulses & Lentils Pack of 6,Grocery,NORMAL,87,0.0,0.0,0.0,0.0,False,0.0,0.0,87.0
-ST04,SKU03496,SunriseFoods Ice Cream 500g,Frozen Foods,NORMAL,7,0.27,0.21,4.0,6.0,False,4.0,834.36,0.0
+ST04,SKU03496,SunriseFoods Ice Cream 500g,Frozen Foods,NORMAL,7,0.27,0.21,4.0,6.0,False,0.0,0.0,0.0
 ST10,SKU02910,DailyBest Yogurt 250g,Dairy & Bakery,NORMAL,52,0.01,0.01,1.0,2.0,False,0.0,0.0,50.0
 ST23,SKU01143,HealthFirst Laundry Large,Home Care,NORMAL,3,0.04,0.03,2.0,3.0,True,1.0,241.96,0.0
 ST28,SKU03398,CityFresh Home Decor Pack of 6,Home & Kitchen,NORMAL,61,0.0,0.0,0.0,0.0,False,0.0,0.0,61.0
@@ -13722,7 +13722,7 @@ ST23,SKU04562,SoftTouch Footwear 250g,Apparel & Footwear,STOCKOUT_RISK,13,0.27,0
 ST11,SKU04710,SmartBuy Women's Wear 1L,Apparel & Footwear,STOCKOUT_RISK,172,0.44,0.34,4.0,7.0,False,0.0,0.0,137.0
 ST04,SKU03969,ZestyCo Biscuits & Cookies 1L,Snacks & Confectionery,NORMAL,22,0.26,0.2,3.0,5.0,False,0.0,0.0,1.0
 ST24,SKU03169,GoldenHarvest Cheese 1kg,Dairy & Bakery,NORMAL,27,0.04,0.03,2.0,3.0,False,0.0,0.0,21.0
-ST04,SKU02222,SparkleClean Men's Wear 250g,Apparel & Footwear,NORMAL,5,0.09,0.07,3.0,4.0,False,1.0,1804.42,0.0
+ST04,SKU02222,SparkleClean Men's Wear 250g,Apparel & Footwear,NORMAL,5,0.09,0.07,3.0,4.0,False,0.0,0.0,0.0
 ST01,SKU00523,ZestyCo OTC Medicine 1kg,Health & Wellness,NORMAL,130,0.16,0.12,4.0,5.0,False,0.0,0.0,115.0
 ST13,SKU03069,ZestyCo Writing Instruments Large,Stationery & Office,NORMAL,205,0.06,0.04,2.0,3.0,False,0.0,0.0,199.0
 ST30,SKU00937,EverydayPlus Women's Wear Large,Apparel & Footwear,NORMAL,42,0.23,0.18,4.0,6.0,False,0.0,0.0,21.0
@@ -13982,11 +13982,11 @@ ST04,SKU03793,FamilyChoice Office Supplies Family Pack,Stationery & Office,NORMA
 ST19,SKU04613,NutriPlus Energy Drinks Pack of 12,Beverages,NORMAL,179,0.11,0.09,3.0,4.0,False,0.0,0.0,168.0
 ST05,SKU04404,SoftTouch Frozen Meat 250g,Frozen Foods,NORMAL,119,0.03,0.03,2.0,3.0,False,0.0,0.0,114.0
 ST28,SKU03498,PurePlus Vitamins & Supplements Pack of 12,Health & Wellness,NORMAL,263,0.08,0.06,2.0,3.0,False,0.0,0.0,255.0
-ST27,SKU03566,ZestyCo Cheese Pack of 6,Dairy & Bakery,NORMAL,11,0.42,0.33,5.0,8.0,False,4.0,311.76,0.0
+ST27,SKU03566,ZestyCo Cheese Pack of 6,Dairy & Bakery,NORMAL,11,0.42,0.33,5.0,8.0,False,0.0,0.0,0.0
 ST29,SKU01896,GreenValley Notebooks Family Pack,Stationery & Office,NORMAL,93,0.07,0.05,2.0,3.0,False,0.0,0.0,86.0
 ST18,SKU01047,HomeStyle Batteries 250ml,Electronics & Accessories,NORMAL,48,0.08,0.06,2.0,3.0,False,0.0,0.0,40.0
 ST21,SKU03970,PrimeCare Spices & Seasoning Pack of 12,Grocery,NORMAL,104,0.2,0.15,4.0,6.0,False,0.0,0.0,86.0
-ST28,SKU01237,ValueChoice Frozen Meat Pack of 6,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,1.0,696.97,0.0
+ST28,SKU01237,ValueChoice Frozen Meat Pack of 6,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,0.0,0.0,0.0
 ST09,SKU02234,UrbanBite Bath & Body 2kg,Personal Care,NORMAL,74,0.07,0.05,2.0,3.0,False,0.0,0.0,67.0
 ST16,SKU01225,QuickBite Cookware Pack of 12,Home & Kitchen,NORMAL,30,0.01,0.01,1.0,2.0,False,0.0,0.0,28.0
 ST07,SKU00100,ValueChoice Flour & Atta 500ml,Grocery,NORMAL,67,0.03,0.03,1.0,2.0,False,0.0,0.0,63.0
@@ -14955,7 +14955,7 @@ ST29,SKU01774,UrbanBite Air Fresheners Pack of 6,Home Care,NORMAL,161,0.37,0.28,
 ST10,SKU03502,ValueChoice Flour & Atta 1L,Grocery,NORMAL,68,0.0,0.0,0.0,0.0,False,0.0,0.0,68.0
 ST27,SKU02877,CrispKing Tea 100g,Beverages,SLOW_MOVER,380,0.03,0.03,2.0,3.0,False,0.0,0.0,375.0
 ST01,SKU01086,PremiumSelect Bath & Body 250ml,Personal Care,NORMAL,32,0.03,0.03,2.0,3.0,False,0.0,0.0,27.0
-ST11,SKU00893,FreshFarm Hair Care 2L,Personal Care,STOCKOUT_RISK,24,0.92,0.71,7.0,12.0,False,5.0,2440.35,0.0
+ST11,SKU00893,FreshFarm Hair Care 2L,Personal Care,STOCKOUT_RISK,24,0.92,0.71,7.0,12.0,False,0.0,0.0,0.0
 ST20,SKU00712,CleanWave Writing Instruments 2kg,Stationery & Office,NORMAL,93,0.01,0.01,1.0,2.0,False,0.0,0.0,91.0
 ST27,SKU01378,SmartBuy Bottled Water Family Pack,Beverages,NORMAL,50,0.02,0.02,1.0,2.0,False,0.0,0.0,47.0
 ST20,SKU01735,HealthFirst Vitamins & Supplements 100g,Health & Wellness,NORMAL,186,0.08,0.06,2.0,3.0,False,0.0,0.0,178.0
@@ -14974,7 +14974,7 @@ ST04,SKU04364,EverydayPlus Storage & Containers Small,Home & Kitchen,NORMAL,222,
 ST18,SKU00360,TrueTaste Candy 500ml,Snacks & Confectionery,NORMAL,137,0.07,0.05,2.0,3.0,False,0.0,0.0,130.0
 ST14,SKU00134,ValueChoice Air Fresheners Large,Home Care,NORMAL,21,0.09,0.07,3.0,4.0,False,0.0,0.0,11.0
 ST05,SKU00228,FamilyChoice Mobile Accessories 250ml,Electronics & Accessories,NORMAL,141,0.0,0.0,0.0,0.0,False,0.0,0.0,141.0
-ST21,SKU01786,FreshFarm Juices 1L,Beverages,NORMAL,9,0.24,0.19,4.0,6.0,False,1.0,165.59,0.0
+ST21,SKU01786,FreshFarm Juices 1L,Beverages,NORMAL,9,0.24,0.19,4.0,6.0,False,0.0,0.0,0.0
 ST18,SKU03761,NovaFresh Biscuits & Cookies 100g,Snacks & Confectionery,NORMAL,70,0.0,0.0,0.0,0.0,False,0.0,0.0,70.0
 ST15,SKU00946,NutriPlus Flour & Atta Family Pack,Grocery,NORMAL,31,0.06,0.04,2.0,3.0,False,0.0,0.0,25.0
 ST24,SKU03992,QuickBite Cookware 250g,Home & Kitchen,NORMAL,193,0.06,0.04,2.0,3.0,False,0.0,0.0,187.0
@@ -15071,7 +15071,7 @@ ST20,SKU00517,EverydayPlus Frozen Vegetables 500ml,Frozen Foods,NORMAL,137,0.08,
 ST17,SKU00048,BasicNeeds Energy Drinks 500ml,Beverages,NORMAL,218,0.11,0.09,3.0,4.0,False,0.0,0.0,207.0
 ST13,SKU00224,NovaFresh Hair Care 1L,Personal Care,NORMAL,210,0.07,0.05,2.0,3.0,False,0.0,0.0,203.0
 ST17,SKU04544,CleanWave Cookware Medium,Home & Kitchen,NORMAL,19,0.23,0.18,4.0,6.0,False,0.0,0.0,0.0
-ST17,SKU04321,EliteHome Hair Care Pack of 6,Personal Care,STOCKOUT_RISK,260,37.74,29.2,48.0,253.0,False,665.0,437782.8,0.0
+ST17,SKU04321,EliteHome Hair Care Pack of 6,Personal Care,STOCKOUT_RISK,260,37.74,29.2,48.0,253.0,False,0.0,0.0,0.0
 ST24,SKU04566,UrbanBite Ice Cream Pack of 6,Frozen Foods,SLOW_MOVER,169,0.0,0.0,0.0,0.0,False,0.0,0.0,169.0
 ST07,SKU04836,TrueTaste Spices & Seasoning 250ml,Grocery,NORMAL,68,0.06,0.04,2.0,3.0,False,0.0,0.0,62.0
 ST05,SKU01776,SunriseFoods Soft Drinks Pack of 6,Beverages,NORMAL,97,0.08,0.06,2.0,3.0,False,0.0,0.0,89.0
@@ -15172,7 +15172,7 @@ ST02,SKU00704,NatureBlend Namkeen 500g,Snacks & Confectionery,NORMAL,37,0.0,0.0,
 ST24,SKU00680,SparkleClean Cooking Oil Large,Grocery,NORMAL,80,0.03,0.03,2.0,3.0,False,0.0,0.0,75.0
 ST08,SKU03641,GreenValley Tea 1kg,Beverages,NORMAL,43,0.13,0.1,3.0,4.0,False,0.0,0.0,30.0
 ST01,SKU02999,CleanWave Notebooks 500g,Stationery & Office,SLOW_MOVER,392,0.0,0.0,0.0,0.0,False,0.0,0.0,392.0
-ST21,SKU00893,FreshFarm Hair Care 2L,Personal Care,STOCKOUT_RISK,29,1.27,0.98,8.0,15.0,False,9.0,4392.63,0.0
+ST21,SKU00893,FreshFarm Hair Care 2L,Personal Care,STOCKOUT_RISK,29,1.27,0.98,8.0,15.0,False,0.0,0.0,0.0
 ST13,SKU03112,PureLife Air Fresheners 250g,Home Care,NORMAL,86,0.03,0.03,2.0,3.0,False,0.0,0.0,81.0
 ST19,SKU04091,TrueTaste Hair Care 100g,Personal Care,NORMAL,66,0.0,0.0,0.0,0.0,False,0.0,0.0,66.0
 ST13,SKU02819,NovaFresh Mobile Accessories 1L,Electronics & Accessories,NORMAL,68,0.23,0.18,4.0,6.0,False,0.0,0.0,47.0
@@ -15191,7 +15191,7 @@ ST24,SKU03544,CrispKing Eggs 250ml,Dairy & Bakery,NORMAL,248,0.07,0.05,3.0,4.0,F
 ST16,SKU00738,TrueTaste Chips & Crisps 1L,Snacks & Confectionery,NORMAL,18,0.02,0.02,1.0,2.0,False,0.0,0.0,15.0
 ST16,SKU03374,EliteHome Candy 250g,Snacks & Confectionery,NORMAL,63,0.17,0.13,3.0,4.0,False,0.0,0.0,48.0
 ST29,SKU03329,SoftTouch Bath & Body Pack of 6,Personal Care,NORMAL,123,0.0,0.0,0.0,0.0,False,0.0,0.0,123.0
-ST22,SKU00411,TrueTaste Frozen Meat 250g,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,1.0,180.34,0.0
+ST22,SKU00411,TrueTaste Frozen Meat 250g,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,0.0,0.0,0.0
 ST12,SKU00377,FamilyChoice Writing Instruments Pack of 12,Stationery & Office,NORMAL,281,0.12,0.09,3.0,4.0,False,0.0,0.0,269.0
 ST25,SKU01608,SparkleClean First Aid 500ml,Health & Wellness,NORMAL,128,0.03,0.03,2.0,3.0,False,0.0,0.0,123.0
 ST11,SKU02651,FamilyChoice Women's Wear 250g,Apparel & Footwear,NORMAL,36,0.07,0.05,2.0,3.0,False,0.0,0.0,29.0
@@ -15219,7 +15219,7 @@ ST26,SKU00569,FreshFarm Chips & Crisps 100g,Snacks & Confectionery,NORMAL,14,0.0
 ST19,SKU00634,SoftTouch Energy Drinks Large,Beverages,NORMAL,208,0.01,0.01,1.0,2.0,False,0.0,0.0,206.0
 ST06,SKU04828,UrbanBite Energy Drinks 250ml,Beverages,NORMAL,123,0.24,0.19,4.0,6.0,False,0.0,0.0,101.0
 ST29,SKU01081,FamilyChoice Women's Wear Small,Apparel & Footwear,NORMAL,57,0.03,0.03,1.0,2.0,False,0.0,0.0,53.0
-ST07,SKU03769,GoldenHarvest Spices & Seasoning 250ml,Grocery,NORMAL,11,0.33,0.26,5.0,7.0,False,2.0,122.22,0.0
+ST07,SKU03769,GoldenHarvest Spices & Seasoning 250ml,Grocery,NORMAL,11,0.33,0.26,5.0,7.0,False,0.0,0.0,0.0
 ST03,SKU04711,SmartBuy Flour & Atta Small,Grocery,NORMAL,166,0.18,0.14,3.0,4.0,False,0.0,0.0,150.0
 ST27,SKU01390,TrueTaste Vitamins & Supplements 250ml,Health & Wellness,NORMAL,48,0.04,0.03,2.0,3.0,False,0.0,0.0,42.0
 ST07,SKU03112,PureLife Air Fresheners 250g,Home Care,NORMAL,104,0.04,0.03,2.0,3.0,False,0.0,0.0,98.0
@@ -15299,7 +15299,7 @@ ST19,SKU03969,ZestyCo Biscuits & Cookies 1L,Snacks & Confectionery,NORMAL,180,0.
 ST01,SKU04521,SmartBuy Coffee 500ml,Beverages,NORMAL,12,0.06,0.04,2.0,3.0,False,0.0,0.0,6.0
 ST04,SKU01582,ZestyCo Cookware Family Pack,Home & Kitchen,SLOW_MOVER,533,0.01,0.01,1.0,2.0,False,0.0,0.0,531.0
 ST02,SKU02287,SoftTouch OTC Medicine 250g,Health & Wellness,NORMAL,127,0.03,0.03,2.0,3.0,False,0.0,0.0,122.0
-ST12,SKU04610,CleanWave Batteries 250ml,Electronics & Accessories,NORMAL,9,0.22,0.17,4.0,6.0,False,1.0,1184.44,0.0
+ST12,SKU04610,CleanWave Batteries 250ml,Electronics & Accessories,NORMAL,9,0.22,0.17,4.0,6.0,False,0.0,0.0,0.0
 ST25,SKU04049,HealthFirst Notebooks 2L,Stationery & Office,NORMAL,45,0.04,0.03,2.0,3.0,False,0.0,0.0,39.0
 ST03,SKU04876,PurePlus Juices 100g,Beverages,NORMAL,62,0.16,0.12,4.0,5.0,False,0.0,0.0,47.0
 ST14,SKU02167,FreshFarm Coffee 100g,Beverages,NORMAL,99,0.08,0.06,2.0,3.0,False,0.0,0.0,91.0
@@ -15485,7 +15485,7 @@ ST12,SKU01606,HomeStyle Yogurt Medium,Dairy & Bakery,NORMAL,73,0.04,0.03,2.0,3.0
 ST23,SKU02989,TrueTaste Pest Control 500g,Home Care,NORMAL,66,0.1,0.08,3.0,4.0,False,0.0,0.0,56.0
 ST19,SKU04116,GreenValley Notebooks 1kg,Stationery & Office,NORMAL,91,0.0,0.0,0.0,0.0,False,0.0,0.0,91.0
 ST04,SKU01237,ValueChoice Frozen Meat Pack of 6,Frozen Foods,NORMAL,212,0.07,0.05,2.0,3.0,False,0.0,0.0,205.0
-ST05,SKU01644,GreenValley Milk 2L,Dairy & Bakery,NORMAL,8,0.22,0.17,4.0,6.0,False,2.0,98.14,0.0
+ST05,SKU01644,GreenValley Milk 2L,Dairy & Bakery,NORMAL,8,0.22,0.17,4.0,6.0,False,0.0,0.0,0.0
 ST01,SKU00926,NutriPlus Soft Drinks 1L,Beverages,NORMAL,19,0.1,0.08,3.0,4.0,False,0.0,0.0,9.0
 ST28,SKU01760,PrimeCare Office Supplies 500g,Stationery & Office,NORMAL,16,0.06,0.04,2.0,3.0,False,0.0,0.0,10.0
 ST10,SKU04044,SunriseFoods Cooking Oil 500g,Grocery,NORMAL,4,0.01,0.01,1.0,2.0,False,0.0,0.0,2.0
@@ -15651,7 +15651,7 @@ ST05,SKU03233,HealthFirst Writing Instruments 250g,Stationery & Office,NORMAL,34
 ST19,SKU03267,EliteHome First Aid 1kg,Health & Wellness,NORMAL,151,0.01,0.01,1.0,2.0,False,0.0,0.0,149.0
 ST16,SKU01359,HomeStyle Home Decor 250g,Home & Kitchen,NORMAL,128,0.03,0.03,2.0,3.0,False,0.0,0.0,123.0
 ST11,SKU01516,ZestyCo Skin Care 250g,Personal Care,NORMAL,111,0.09,0.07,2.0,3.0,False,0.0,0.0,102.0
-ST05,SKU04571,EliteHome Ready Meals 250g,Frozen Foods,STOCKOUT_RISK,43,2.66,2.05,11.0,26.0,False,30.0,15965.7,0.0
+ST05,SKU04571,EliteHome Ready Meals 250g,Frozen Foods,STOCKOUT_RISK,43,2.66,2.05,11.0,26.0,False,0.0,0.0,0.0
 ST27,SKU01734,EliteHome Cookware 2kg,Home & Kitchen,NORMAL,194,0.11,0.09,3.0,4.0,False,0.0,0.0,183.0
 ST23,SKU04235,PureLife Oral Care 500ml,Personal Care,NORMAL,84,0.14,0.11,3.0,4.0,False,0.0,0.0,70.0
 ST22,SKU00613,BasicNeeds Notebooks 500ml,Stationery & Office,NORMAL,30,0.09,0.07,2.0,3.0,False,0.0,0.0,21.0
@@ -15811,7 +15811,7 @@ ST22,SKU02882,SunriseFoods Bread Medium,Dairy & Bakery,NORMAL,36,0.11,0.09,3.0,4
 ST30,SKU00629,FreshFarm Eggs 1L,Dairy & Bakery,NORMAL,201,0.07,0.05,2.0,3.0,False,0.0,0.0,194.0
 ST22,SKU01398,MetroBrand Home Decor Pack of 12,Home & Kitchen,NORMAL,14,0.09,0.07,2.0,3.0,False,0.0,0.0,5.0
 ST22,SKU00375,PrimeCare Bread Small,Dairy & Bakery,NORMAL,24,0.1,0.08,3.0,4.0,False,0.0,0.0,14.0
-ST18,SKU04154,TrueTaste Spices & Seasoning Medium,Grocery,STOCKOUT_RISK,110,4.47,3.46,15.0,40.0,False,9.0,2022.03,0.0
+ST18,SKU04154,TrueTaste Spices & Seasoning Medium,Grocery,STOCKOUT_RISK,110,4.47,3.46,15.0,40.0,False,0.0,0.0,0.0
 ST02,SKU03820,ZestyCo OTC Medicine Small,Health & Wellness,NORMAL,47,0.23,0.18,4.0,6.0,False,0.0,0.0,26.0
 ST30,SKU03411,FreshFarm Sugar & Salt 2L,Grocery,NORMAL,82,0.06,0.04,2.0,3.0,False,0.0,0.0,76.0
 ST11,SKU01720,FreshFarm Men's Wear Small,Apparel & Footwear,NORMAL,145,0.06,0.04,2.0,3.0,False,0.0,0.0,139.0
@@ -15940,7 +15940,7 @@ ST19,SKU04920,CleanWave Writing Instruments Family Pack,Stationery & Office,NORM
 ST09,SKU02933,HomeStyle Bread 1kg,Dairy & Bakery,NORMAL,17,0.03,0.03,1.0,2.0,False,0.0,0.0,13.0
 ST30,SKU01668,FreshFarm Bread Large,Dairy & Bakery,NORMAL,56,0.08,0.06,3.0,4.0,False,0.0,0.0,47.0
 ST25,SKU01441,GreenValley Mobile Accessories Small,Electronics & Accessories,SLOW_MOVER,458,0.02,0.02,1.0,2.0,False,0.0,0.0,455.0
-ST14,SKU01615,SunriseFoods Frozen Meat 2kg,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,1.0,325.94,0.0
+ST14,SKU01615,SunriseFoods Frozen Meat 2kg,Frozen Foods,NORMAL,5,0.09,0.07,3.0,4.0,False,0.0,0.0,0.0
 ST28,SKU04201,UrbanBite OTC Medicine 2L,Health & Wellness,NORMAL,175,0.06,0.04,2.0,3.0,False,0.0,0.0,169.0
 ST08,SKU02124,NatureBlend Pest Control 1kg,Home Care,NORMAL,126,0.13,0.1,3.0,4.0,False,0.0,0.0,113.0
 ST17,SKU03677,PrimeCare Hair Care Pack of 6,Personal Care,NORMAL,174,0.0,0.0,0.0,0.0,False,0.0,0.0,174.0
@@ -15964,7 +15964,7 @@ ST02,SKU02858,FamilyChoice Dishwashing 100g,Home Care,STOCKOUT_RISK,46,1.07,0.83
 ST12,SKU03412,SoftTouch Chips & Crisps Family Pack,Snacks & Confectionery,NORMAL,64,0.02,0.02,1.0,2.0,False,0.0,0.0,61.0
 ST17,SKU00543,PureLife Office Supplies 250g,Stationery & Office,NORMAL,212,0.01,0.01,1.0,2.0,False,0.0,0.0,210.0
 ST30,SKU04170,UrbanBite Rice & Grains 250ml,Grocery,NORMAL,106,0.27,0.21,4.0,6.0,False,0.0,0.0,83.0
-ST08,SKU00246,CleanWave Cookware Medium,Home & Kitchen,NORMAL,5,0.11,0.09,3.0,4.0,False,1.0,780.18,0.0
+ST08,SKU00246,CleanWave Cookware Medium,Home & Kitchen,NORMAL,5,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST16,SKU04899,FreshFarm Cheese 2L,Dairy & Bakery,NORMAL,80,0.02,0.02,1.0,2.0,False,0.0,0.0,77.0
 ST13,SKU04238,SunriseFoods Sugar & Salt 100g,Grocery,NORMAL,125,0.1,0.08,3.0,4.0,False,0.0,0.0,115.0
 ST12,SKU00114,HomeStyle Writing Instruments Pack of 12,Stationery & Office,NORMAL,79,0.01,0.01,1.0,2.0,False,0.0,0.0,77.0
@@ -16627,7 +16627,7 @@ ST08,SKU00542,DailyBest Kids Wear 2kg,Apparel & Footwear,NORMAL,102,0.03,0.03,2.
 ST07,SKU00116,CrispKing Ready Meals Large,Frozen Foods,NORMAL,10,0.23,0.18,4.0,6.0,False,0.0,0.0,0.0
 ST19,SKU02625,UrbanBite Frozen Vegetables 1kg,Frozen Foods,NORMAL,76,0.06,0.04,2.0,3.0,False,0.0,0.0,70.0
 ST15,SKU04917,PureLife Ready Meals Large,Frozen Foods,NORMAL,61,0.08,0.06,2.0,3.0,False,0.0,0.0,53.0
-ST13,SKU02029,PurePlus First Aid Family Pack,Health & Wellness,NORMAL,7,0.18,0.14,3.0,4.0,False,1.0,364.99,0.0
+ST13,SKU02029,PurePlus First Aid Family Pack,Health & Wellness,NORMAL,7,0.18,0.14,3.0,4.0,False,0.0,0.0,0.0
 ST03,SKU04180,SmartBuy Storage & Containers 250g,Home & Kitchen,NORMAL,24,0.02,0.02,1.0,2.0,False,0.0,0.0,21.0
 ST23,SKU01142,CrispKing Storage & Containers 2L,Home & Kitchen,NORMAL,154,0.17,0.13,4.0,5.0,False,0.0,0.0,138.0
 ST27,SKU01494,PremiumSelect First Aid 2L,Health & Wellness,NORMAL,155,0.08,0.06,2.0,3.0,False,0.0,0.0,147.0
@@ -16806,7 +16806,7 @@ ST19,SKU03575,SoftTouch Sugar & Salt 100g,Grocery,NORMAL,98,0.02,0.02,1.0,2.0,Fa
 ST24,SKU01531,FreshFarm Notebooks 1L,Stationery & Office,NORMAL,5,0.01,0.01,1.0,2.0,False,0.0,0.0,3.0
 ST13,SKU03422,MetroBrand Cookware 250g,Home & Kitchen,NORMAL,74,0.13,0.1,3.0,4.0,False,0.0,0.0,61.0
 ST27,SKU00225,SparkleClean Home Decor 250ml,Home & Kitchen,NORMAL,68,0.13,0.1,3.0,4.0,False,0.0,0.0,55.0
-ST08,SKU02776,SparkleClean Namkeen Pack of 12,Snacks & Confectionery,STOCKOUT_RISK,21,0.71,0.55,6.0,10.0,False,2.0,356.9,0.0
+ST08,SKU02776,SparkleClean Namkeen Pack of 12,Snacks & Confectionery,STOCKOUT_RISK,21,0.71,0.55,6.0,10.0,False,0.0,0.0,0.0
 ST16,SKU01617,SparkleClean Ice Cream Medium,Frozen Foods,NORMAL,43,0.13,0.1,4.0,5.0,False,0.0,0.0,29.0
 ST09,SKU00556,QuickBite Ready Meals 2L,Frozen Foods,NORMAL,109,0.04,0.03,2.0,3.0,False,0.0,0.0,103.0
 ST19,SKU03694,HealthFirst Cheese 100g,Dairy & Bakery,NORMAL,196,0.03,0.03,2.0,3.0,False,0.0,0.0,191.0
@@ -16952,7 +16952,7 @@ ST21,SKU00221,GreenValley Bath & Body Pack of 12,Personal Care,NORMAL,106,0.02,0
 ST02,SKU04644,SoftTouch Cheese Pack of 6,Dairy & Bakery,NORMAL,110,0.08,0.06,3.0,4.0,False,0.0,0.0,101.0
 ST20,SKU01550,HealthFirst Writing Instruments 100g,Stationery & Office,NORMAL,40,0.09,0.07,3.0,4.0,False,0.0,0.0,30.0
 ST22,SKU04675,SparkleClean Laundry Family Pack,Home Care,NORMAL,125,0.07,0.05,2.0,3.0,False,0.0,0.0,118.0
-ST17,SKU03587,SunriseFoods Oral Care Family Pack,Personal Care,NORMAL,13,0.36,0.28,5.0,7.0,False,1.0,153.79,0.0
+ST17,SKU03587,SunriseFoods Oral Care Family Pack,Personal Care,NORMAL,13,0.36,0.28,5.0,7.0,False,0.0,0.0,0.0
 ST27,SKU01750,QuickBite Men's Grooming Small,Personal Care,NORMAL,115,0.03,0.03,2.0,3.0,False,0.0,0.0,110.0
 ST18,SKU04657,TrueTaste Pest Control Large,Home Care,NORMAL,54,0.08,0.06,2.0,3.0,False,0.0,0.0,46.0
 ST08,SKU04446,DailyBest Cooking Oil 2kg,Grocery,NORMAL,121,0.08,0.06,2.0,3.0,False,0.0,0.0,113.0
@@ -16997,7 +16997,7 @@ ST27,SKU01659,BasicNeeds Soft Drinks Pack of 12,Beverages,NORMAL,36,0.07,0.05,2.
 ST24,SKU03054,GreenValley Tea 1L,Beverages,NORMAL,66,0.13,0.1,3.0,4.0,False,0.0,0.0,53.0
 ST19,SKU03236,FamilyChoice Chocolates 1L,Snacks & Confectionery,NORMAL,10,0.06,0.04,2.0,3.0,False,0.0,0.0,4.0
 ST12,SKU03193,GoldenHarvest Juices 250ml,Beverages,NORMAL,78,0.22,0.17,3.0,5.0,False,0.0,0.0,59.0
-ST09,SKU01271,ValueChoice Writing Instruments Pack of 12,Stationery & Office,NORMAL,5,0.13,0.1,3.0,4.0,False,2.0,315.74,0.0
+ST09,SKU01271,ValueChoice Writing Instruments Pack of 12,Stationery & Office,NORMAL,5,0.13,0.1,3.0,4.0,False,0.0,0.0,0.0
 ST18,SKU00537,SparkleClean Bath & Body 500ml,Personal Care,NORMAL,45,0.02,0.02,1.0,2.0,False,0.0,0.0,42.0
 ST18,SKU00394,FamilyChoice Namkeen 250g,Snacks & Confectionery,NORMAL,70,0.12,0.09,3.0,4.0,False,0.0,0.0,58.0
 ST29,SKU02481,NovaFresh Notebooks 250ml,Stationery & Office,NORMAL,21,0.09,0.07,3.0,4.0,False,0.0,0.0,11.0
@@ -17044,7 +17044,7 @@ ST06,SKU00182,TrueTaste Men's Grooming 500ml,Personal Care,NORMAL,45,0.07,0.05,2
 ST03,SKU00393,QuickBite Biscuits & Cookies 1kg,Snacks & Confectionery,NORMAL,27,0.09,0.07,2.0,3.0,False,0.0,0.0,18.0
 ST06,SKU01445,NutriPlus Small Appliances 100g,Electronics & Accessories,NORMAL,186,0.17,0.13,4.0,5.0,False,0.0,0.0,170.0
 ST06,SKU01262,PrimeCare Frozen Meat 250ml,Frozen Foods,NORMAL,113,0.08,0.06,2.0,3.0,False,0.0,0.0,105.0
-ST23,SKU03004,EverydayPlus Kids Wear Medium,Apparel & Footwear,NORMAL,6,0.13,0.1,3.0,4.0,False,1.0,1519.92,0.0
+ST23,SKU03004,EverydayPlus Kids Wear Medium,Apparel & Footwear,NORMAL,6,0.13,0.1,3.0,4.0,False,0.0,0.0,0.0
 ST11,SKU03088,GoldenHarvest Notebooks Pack of 6,Stationery & Office,STOCKOUT_RISK,0,1.24,0.96,8.0,15.0,True,37.0,5668.77,0.0
 ST10,SKU03313,ValueChoice Home Decor Pack of 6,Home & Kitchen,NORMAL,36,0.18,0.14,4.0,5.0,False,0.0,0.0,19.0
 ST04,SKU00527,FreshFarm Ice Cream 250ml,Frozen Foods,NORMAL,88,0.11,0.09,3.0,4.0,False,0.0,0.0,77.0
@@ -17160,7 +17160,7 @@ ST03,SKU00093,ValueChoice Energy Drinks 2kg,Beverages,NORMAL,104,0.02,0.02,1.0,2
 ST08,SKU00834,QuickBite OTC Medicine Family Pack,Health & Wellness,NORMAL,218,0.03,0.03,2.0,3.0,False,0.0,0.0,213.0
 ST01,SKU02948,SparkleClean Butter & Ghee Family Pack,Dairy & Bakery,NORMAL,15,0.16,0.12,4.0,5.0,False,0.0,0.0,0.0
 ST26,SKU03890,ValueChoice Hair Care 500g,Personal Care,NORMAL,208,0.0,0.0,0.0,0.0,False,0.0,0.0,208.0
-ST26,SKU02898,CrispKing Footwear 1L,Apparel & Footwear,STOCKOUT_RISK,15,0.48,0.37,7.0,10.0,False,4.0,2216.92,0.0
+ST26,SKU02898,CrispKing Footwear 1L,Apparel & Footwear,STOCKOUT_RISK,15,0.48,0.37,7.0,10.0,False,0.0,0.0,0.0
 ST15,SKU01925,HomeStyle Small Appliances 1kg,Electronics & Accessories,NORMAL,3,0.02,0.02,1.0,2.0,False,0.0,0.0,0.0
 ST17,SKU03963,ZestyCo Energy Drinks Pack of 12,Beverages,NORMAL,28,0.09,0.07,2.0,3.0,False,0.0,0.0,19.0
 ST07,SKU02620,HomeStyle Office Supplies 1L,Stationery & Office,NORMAL,70,0.02,0.02,1.0,2.0,False,0.0,0.0,67.0
@@ -17261,7 +17261,7 @@ ST10,SKU01702,HomeStyle Bread 2L,Dairy & Bakery,NORMAL,11,0.02,0.02,1.0,2.0,Fals
 ST30,SKU00151,PurePlus Skin Care Pack of 12,Personal Care,NORMAL,261,0.08,0.06,2.0,3.0,False,0.0,0.0,253.0
 ST23,SKU00677,EliteHome Mobile Accessories 500ml,Electronics & Accessories,NORMAL,35,0.12,0.09,3.0,4.0,False,0.0,0.0,23.0
 ST06,SKU03228,ValueChoice Frozen Vegetables Small,Frozen Foods,NORMAL,205,0.11,0.09,2.0,3.0,False,0.0,0.0,195.0
-ST14,SKU01878,NutriPlus Office Supplies Family Pack,Stationery & Office,NORMAL,9,0.23,0.18,4.0,6.0,False,1.0,55.79,0.0
+ST14,SKU01878,NutriPlus Office Supplies Family Pack,Stationery & Office,NORMAL,9,0.23,0.18,4.0,6.0,False,0.0,0.0,0.0
 ST23,SKU01140,NutriPlus OTC Medicine Pack of 6,Health & Wellness,NORMAL,151,0.1,0.08,3.0,4.0,False,0.0,0.0,141.0
 ST26,SKU00488,PrimeCare Butter & Ghee Family Pack,Dairy & Bakery,NORMAL,7,0.01,0.01,1.0,2.0,False,0.0,0.0,5.0
 ST19,SKU00762,MetroBrand Biscuits & Cookies Pack of 12,Snacks & Confectionery,NORMAL,229,0.11,0.09,3.0,4.0,False,0.0,0.0,218.0
@@ -17297,7 +17297,7 @@ ST24,SKU01653,ValueChoice Surface Cleaners Pack of 6,Home Care,NORMAL,78,0.08,0.
 ST22,SKU00385,FamilyChoice Frozen Vegetables 250g,Frozen Foods,SLOW_MOVER,175,0.06,0.04,2.0,3.0,False,0.0,0.0,169.0
 ST30,SKU04089,FreshFarm Kids Wear Large,Apparel & Footwear,NORMAL,157,0.11,0.09,3.0,4.0,False,0.0,0.0,146.0
 ST18,SKU04889,NutriPlus Office Supplies 1L,Stationery & Office,NORMAL,133,0.07,0.05,2.0,3.0,False,0.0,0.0,126.0
-ST15,SKU01446,SmartBuy Bottled Water 2kg,Beverages,NORMAL,9,0.28,0.21,4.0,6.0,False,2.0,263.98,0.0
+ST15,SKU01446,SmartBuy Bottled Water 2kg,Beverages,NORMAL,9,0.28,0.21,4.0,6.0,False,0.0,0.0,0.0
 ST15,SKU00188,GreenValley Bread Pack of 6,Dairy & Bakery,NORMAL,101,0.04,0.03,1.0,2.0,False,0.0,0.0,96.0
 ST16,SKU04273,CityFresh Women's Wear 1L,Apparel & Footwear,STOCKOUT_RISK,0,0.22,0.17,4.0,6.0,True,10.0,11170.9,0.0
 ST29,SKU02336,PurePlus Men's Grooming 500g,Personal Care,NORMAL,9,0.07,0.05,2.0,3.0,False,0.0,0.0,2.0
@@ -17306,7 +17306,7 @@ ST16,SKU02675,MetroBrand OTC Medicine 2kg,Health & Wellness,SLOW_MOVER,171,0.01,
 ST26,SKU00904,ZestyCo Notebooks 250ml,Stationery & Office,NORMAL,207,0.17,0.13,4.0,5.0,False,0.0,0.0,191.0
 ST28,SKU04566,UrbanBite Ice Cream Pack of 6,Frozen Foods,SLOW_MOVER,324,0.0,0.0,0.0,0.0,False,0.0,0.0,324.0
 ST05,SKU00856,GreenValley Notebooks 2kg,Stationery & Office,NORMAL,8,0.08,0.06,2.0,3.0,False,0.0,0.0,0.0
-ST14,SKU00845,ZestyCo Frozen Vegetables 1L,Frozen Foods,STOCKOUT_RISK,39,1.49,1.15,9.0,18.0,False,5.0,2452.6,0.0
+ST14,SKU00845,ZestyCo Frozen Vegetables 1L,Frozen Foods,STOCKOUT_RISK,39,1.49,1.15,9.0,18.0,False,0.0,0.0,0.0
 ST22,SKU04584,HomeStyle Cheese 100g,Dairy & Bakery,NORMAL,61,0.02,0.02,1.0,2.0,False,0.0,0.0,58.0
 ST09,SKU04611,ValueChoice Writing Instruments Family Pack,Stationery & Office,NORMAL,75,0.01,0.01,1.0,2.0,False,0.0,0.0,73.0
 ST05,SKU02010,PremiumSelect Skin Care 500g,Personal Care,NORMAL,159,0.07,0.05,2.0,3.0,False,0.0,0.0,152.0
@@ -17333,7 +17333,7 @@ ST14,SKU04578,BasicNeeds Home Decor Large,Home & Kitchen,NORMAL,136,0.18,0.14,4.
 ST27,SKU01513,FamilyChoice Chocolates 250g,Snacks & Confectionery,NORMAL,54,0.02,0.02,1.0,2.0,False,0.0,0.0,51.0
 ST03,SKU00451,TrueTaste First Aid Family Pack,Health & Wellness,NORMAL,74,0.13,0.1,3.0,4.0,False,0.0,0.0,61.0
 ST21,SKU00973,GoldenHarvest Eggs 500g,Dairy & Bakery,NORMAL,106,0.06,0.04,2.0,3.0,False,0.0,0.0,100.0
-ST23,SKU04063,NatureBlend Men's Grooming 500ml,Personal Care,NORMAL,8,0.19,0.15,4.0,6.0,False,1.0,269.42,0.0
+ST23,SKU04063,NatureBlend Men's Grooming 500ml,Personal Care,NORMAL,8,0.19,0.15,4.0,6.0,False,0.0,0.0,0.0
 ST20,SKU01713,QuickBite Cookware 1kg,Home & Kitchen,NORMAL,110,0.12,0.09,2.0,3.0,False,0.0,0.0,99.0
 ST10,SKU04265,PurePlus Surface Cleaners 2L,Home Care,SLOW_MOVER,219,0.02,0.02,1.0,2.0,False,0.0,0.0,216.0
 ST10,SKU04294,HomeStyle Surface Cleaners Family Pack,Home Care,NORMAL,45,0.03,0.03,1.0,2.0,False,0.0,0.0,41.0
@@ -17513,7 +17513,7 @@ ST23,SKU00897,EverydayPlus Chips & Crisps 250g,Snacks & Confectionery,NORMAL,132
 ST12,SKU01756,EverydayPlus Chips & Crisps 500g,Snacks & Confectionery,NORMAL,123,0.16,0.12,3.0,4.0,False,0.0,0.0,109.0
 ST14,SKU00792,NutriPlus Oral Care Pack of 6,Personal Care,NORMAL,19,0.02,0.02,1.0,2.0,False,0.0,0.0,16.0
 ST10,SKU04040,PureLife Cookware 1L,Home & Kitchen,NORMAL,30,0.02,0.02,1.0,2.0,False,0.0,0.0,27.0
-ST29,SKU01682,EliteHome Notebooks Medium,Stationery & Office,NORMAL,6,0.18,0.14,4.0,5.0,False,3.0,534.48,0.0
+ST29,SKU01682,EliteHome Notebooks Medium,Stationery & Office,NORMAL,6,0.18,0.14,4.0,5.0,False,0.0,0.0,0.0
 ST23,SKU02150,SparkleClean Home Decor Pack of 6,Home & Kitchen,NORMAL,23,0.03,0.03,2.0,3.0,False,0.0,0.0,18.0
 ST03,SKU00413,ZestyCo Air Fresheners 1kg,Home Care,NORMAL,84,0.03,0.03,1.0,2.0,False,0.0,0.0,80.0
 ST22,SKU00931,DailyBest Office Supplies 2L,Stationery & Office,NORMAL,227,0.08,0.06,3.0,4.0,False,0.0,0.0,218.0
@@ -17660,7 +17660,7 @@ ST19,SKU00469,NatureBlend Sugar & Salt Family Pack,Grocery,NORMAL,165,0.07,0.05,
 ST24,SKU02806,PrimeCare Notebooks Large,Stationery & Office,NORMAL,201,0.1,0.08,3.0,4.0,False,0.0,0.0,191.0
 ST15,SKU00440,TrueTaste Home Decor Pack of 6,Home & Kitchen,NORMAL,60,0.07,0.05,3.0,4.0,False,0.0,0.0,52.0
 ST20,SKU04845,SparkleClean OTC Medicine Pack of 12,Health & Wellness,NORMAL,79,0.01,0.01,1.0,2.0,False,0.0,0.0,77.0
-ST30,SKU02826,QuickBite Surface Cleaners Family Pack,Home Care,STOCKOUT_RISK,12,0.53,0.41,5.0,8.0,False,6.0,1693.2,0.0
+ST30,SKU02826,QuickBite Surface Cleaners Family Pack,Home Care,STOCKOUT_RISK,12,0.53,0.41,5.0,8.0,False,0.0,0.0,0.0
 ST21,SKU02820,CityFresh First Aid 2L,Health & Wellness,NORMAL,25,0.29,0.22,4.0,6.0,False,0.0,0.0,0.0
 ST23,SKU04509,QuickBite Air Fresheners Pack of 12,Home Care,NORMAL,158,0.04,0.03,2.0,3.0,False,0.0,0.0,152.0
 ST11,SKU00126,PurePlus Dishwashing Family Pack,Home Care,NORMAL,40,0.24,0.19,3.0,5.0,False,0.0,0.0,19.0
@@ -17696,7 +17696,7 @@ ST03,SKU02427,FreshFarm Yogurt 500ml,Dairy & Bakery,NORMAL,110,0.06,0.04,2.0,3.0
 ST12,SKU04804,SunriseFoods Bottled Water Pack of 12,Beverages,NORMAL,73,0.06,0.04,2.0,3.0,False,0.0,0.0,67.0
 ST15,SKU01532,SoftTouch Cooking Oil 500g,Grocery,NORMAL,28,0.03,0.03,2.0,3.0,False,0.0,0.0,23.0
 ST29,SKU04354,MetroBrand Kids Wear Large,Apparel & Footwear,NORMAL,4,0.06,0.04,2.0,3.0,False,0.0,0.0,0.0
-ST02,SKU04010,NatureBlend Rice & Grains 250g,Grocery,NORMAL,8,0.2,0.15,4.0,6.0,False,1.0,142.57,0.0
+ST02,SKU04010,NatureBlend Rice & Grains 250g,Grocery,NORMAL,8,0.2,0.15,4.0,6.0,False,0.0,0.0,0.0
 ST25,SKU01418,PremiumSelect Vitamins & Supplements 1L,Health & Wellness,NORMAL,13,0.02,0.02,1.0,2.0,False,0.0,0.0,10.0
 ST03,SKU01533,NatureBlend Spices & Seasoning 1kg,Grocery,NORMAL,61,0.02,0.02,1.0,2.0,False,0.0,0.0,58.0
 ST03,SKU01297,PureLife Notebooks 250g,Stationery & Office,NORMAL,26,0.16,0.12,3.0,4.0,False,0.0,0.0,12.0
@@ -17809,7 +17809,7 @@ ST06,SKU00764,HomeStyle Notebooks 250ml,Stationery & Office,NORMAL,112,0.1,0.08,
 ST02,SKU04287,SmartBuy Vitamins & Supplements Pack of 6,Health & Wellness,NORMAL,9,0.0,0.0,0.0,0.0,False,0.0,0.0,9.0
 ST30,SKU01794,PurePlus Cooking Oil Medium,Grocery,NORMAL,74,0.06,0.04,2.0,3.0,False,0.0,0.0,68.0
 ST18,SKU04369,CleanWave Small Appliances Small,Electronics & Accessories,NORMAL,233,0.0,0.0,0.0,0.0,False,0.0,0.0,233.0
-ST22,SKU04056,EliteHome Footwear Pack of 12,Apparel & Footwear,NORMAL,5,0.17,0.13,3.0,4.0,False,2.0,1383.34,0.0
+ST22,SKU04056,EliteHome Footwear Pack of 12,Apparel & Footwear,NORMAL,5,0.17,0.13,3.0,4.0,False,0.0,0.0,0.0
 ST10,SKU01707,QuickBite Bath & Body 2L,Personal Care,NORMAL,71,0.04,0.03,2.0,3.0,False,0.0,0.0,65.0
 ST20,SKU02811,PureLife Writing Instruments Small,Stationery & Office,NORMAL,177,0.07,0.05,2.0,3.0,False,0.0,0.0,170.0
 ST11,SKU04438,UrbanBite Yogurt 100g,Dairy & Bakery,NORMAL,62,0.12,0.09,3.0,4.0,False,0.0,0.0,50.0
@@ -18466,7 +18466,7 @@ ST02,SKU01979,BasicNeeds Pulses & Lentils 2L,Grocery,NORMAL,75,0.0,0.0,0.0,0.0,F
 ST17,SKU03911,BasicNeeds Coffee 250ml,Beverages,NORMAL,69,0.1,0.08,2.0,3.0,False,0.0,0.0,60.0
 ST06,SKU02827,EverydayPlus Laundry 250g,Home Care,NORMAL,29,0.19,0.15,3.0,5.0,False,0.0,0.0,12.0
 ST18,SKU02406,QuickBite Soft Drinks Small,Beverages,NORMAL,124,0.07,0.05,2.0,3.0,False,0.0,0.0,117.0
-ST11,SKU02812,TrueTaste Laundry 1L,Home Care,NORMAL,8,0.27,0.21,4.0,6.0,False,3.0,582.3,0.0
+ST11,SKU02812,TrueTaste Laundry 1L,Home Care,NORMAL,8,0.27,0.21,4.0,6.0,False,0.0,0.0,0.0
 ST18,SKU02502,HomeStyle Storage & Containers Large,Home & Kitchen,NORMAL,10,0.14,0.11,3.0,4.0,False,0.0,0.0,0.0
 ST17,SKU03190,PremiumSelect Storage & Containers 2kg,Home & Kitchen,NORMAL,268,0.18,0.14,3.0,4.0,False,0.0,0.0,252.0
 ST01,SKU00768,HomeStyle Men's Wear 250g,Apparel & Footwear,NORMAL,201,0.1,0.08,3.0,4.0,False,0.0,0.0,191.0
@@ -18593,7 +18593,7 @@ ST14,SKU00780,PurePlus Frozen Meat 500g,Frozen Foods,NORMAL,95,0.06,0.04,2.0,3.0
 ST11,SKU02965,PureLife Hair Care 1kg,Personal Care,NORMAL,68,0.06,0.04,2.0,3.0,False,0.0,0.0,62.0
 ST11,SKU03292,SoftTouch Pulses & Lentils Family Pack,Grocery,STOCKOUT_RISK,0,2.27,1.75,13.0,26.0,True,66.0,7436.88,0.0
 ST16,SKU00280,PrimeCare Small Appliances 2kg,Electronics & Accessories,NORMAL,33,0.08,0.06,3.0,4.0,False,0.0,0.0,24.0
-ST13,SKU00328,EverydayPlus Spices & Seasoning 250g,Grocery,STOCKOUT_RISK,9,0.28,0.21,5.0,7.0,False,3.0,472.41,0.0
+ST13,SKU00328,EverydayPlus Spices & Seasoning 250g,Grocery,STOCKOUT_RISK,9,0.28,0.21,5.0,7.0,False,0.0,0.0,0.0
 ST26,SKU03106,EliteHome Chocolates Pack of 6,Snacks & Confectionery,NORMAL,95,0.12,0.09,3.0,4.0,False,0.0,0.0,83.0
 ST22,SKU03270,UrbanBite Cheese Small,Dairy & Bakery,NORMAL,8,0.07,0.05,2.0,3.0,False,0.0,0.0,1.0
 ST27,SKU01302,FamilyChoice Spices & Seasoning 500g,Grocery,NORMAL,113,0.17,0.13,4.0,5.0,False,0.0,0.0,97.0
@@ -18650,7 +18650,7 @@ ST14,SKU02245,NutriPlus Surface Cleaners 500ml,Home Care,NORMAL,3,0.07,0.05,2.0,
 ST06,SKU03880,GoldenHarvest Skin Care 500g,Personal Care,NORMAL,30,0.11,0.09,2.0,3.0,False,0.0,0.0,20.0
 ST10,SKU01655,SparkleClean Bottled Water Pack of 12,Beverages,NORMAL,135,0.02,0.02,1.0,2.0,False,0.0,0.0,132.0
 ST26,SKU01086,PremiumSelect Bath & Body 250ml,Personal Care,NORMAL,78,0.14,0.11,4.0,5.0,False,0.0,0.0,63.0
-ST20,SKU04038,HealthFirst Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORMAL,7,0.23,0.18,3.0,5.0,False,2.0,59.94,0.0
+ST20,SKU04038,HealthFirst Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORMAL,7,0.23,0.18,3.0,5.0,False,0.0,0.0,0.0
 ST26,SKU03756,GreenValley Kids Wear Medium,Apparel & Footwear,NORMAL,36,0.01,0.01,1.0,2.0,False,0.0,0.0,34.0
 ST15,SKU01236,ValueChoice Chocolates 250g,Snacks & Confectionery,NORMAL,48,0.0,0.0,0.0,0.0,False,0.0,0.0,48.0
 ST24,SKU04339,NovaFresh First Aid Small,Health & Wellness,NORMAL,12,0.18,0.14,4.0,5.0,False,0.0,0.0,0.0
@@ -18669,7 +18669,7 @@ ST27,SKU01529,DailyBest Office Supplies 500ml,Stationery & Office,NORMAL,88,0.02
 ST18,SKU02593,FreshFarm Ready Meals 500g,Frozen Foods,NORMAL,119,0.0,0.0,0.0,0.0,False,0.0,0.0,119.0
 ST19,SKU01757,BasicNeeds Milk 2kg,Dairy & Bakery,NORMAL,42,0.02,0.02,1.0,2.0,False,0.0,0.0,39.0
 ST06,SKU02249,NatureBlend Milk 1kg,Dairy & Bakery,NORMAL,59,0.04,0.03,2.0,3.0,False,0.0,0.0,53.0
-ST19,SKU02407,HomeStyle Footwear 2kg,Apparel & Footwear,NORMAL,6,0.18,0.14,3.0,4.0,False,2.0,584.9,0.0
+ST19,SKU02407,HomeStyle Footwear 2kg,Apparel & Footwear,NORMAL,6,0.18,0.14,3.0,4.0,False,0.0,0.0,0.0
 ST01,SKU02382,PremiumSelect Footwear 500ml,Apparel & Footwear,NORMAL,162,0.09,0.07,2.0,3.0,False,0.0,0.0,153.0
 ST16,SKU03816,FreshFarm Home Decor Family Pack,Home & Kitchen,NORMAL,41,0.06,0.04,2.0,3.0,False,0.0,0.0,35.0
 ST13,SKU00293,CleanWave Energy Drinks 2L,Beverages,NORMAL,55,0.06,0.04,3.0,4.0,False,0.0,0.0,48.0
@@ -18872,7 +18872,7 @@ ST16,SKU02616,QuickBite Ice Cream Pack of 6,Frozen Foods,NORMAL,63,0.01,0.01,1.0
 ST27,SKU03323,UrbanBite Batteries 250ml,Electronics & Accessories,STOCKOUT_RISK,60,0.54,0.42,6.0,9.0,False,0.0,0.0,16.0
 ST28,SKU02375,QuickBite Cooking Oil Medium,Grocery,NORMAL,67,0.01,0.01,1.0,2.0,False,0.0,0.0,65.0
 ST26,SKU01199,CrispKing Batteries 500g,Electronics & Accessories,NORMAL,42,0.07,0.05,2.0,3.0,False,0.0,0.0,35.0
-ST14,SKU02611,MetroBrand Bottled Water 500g,Beverages,NORMAL,12,0.52,0.4,6.0,9.0,False,7.0,863.38,0.0
+ST14,SKU02611,MetroBrand Bottled Water 500g,Beverages,NORMAL,12,0.52,0.4,6.0,9.0,False,0.0,0.0,0.0
 ST17,SKU03451,SunriseFoods Pest Control 2kg,Home Care,NORMAL,15,0.08,0.06,2.0,3.0,False,0.0,0.0,7.0
 ST23,SKU04020,NutriPlus Small Appliances Medium,Electronics & Accessories,NORMAL,62,0.06,0.04,2.0,3.0,False,0.0,0.0,56.0
 ST09,SKU01591,NutriPlus Laundry 2kg,Home Care,NORMAL,44,0.0,0.0,0.0,0.0,False,0.0,0.0,44.0
@@ -18898,7 +18898,7 @@ ST27,SKU00678,HomeStyle Home Decor Large,Home & Kitchen,NORMAL,270,0.12,0.09,3.0
 ST14,SKU03665,BasicNeeds Oral Care Pack of 12,Personal Care,NORMAL,19,0.13,0.1,3.0,4.0,False,0.0,0.0,6.0
 ST15,SKU03472,HomeStyle Chocolates 1kg,Snacks & Confectionery,NORMAL,169,0.0,0.0,0.0,0.0,False,0.0,0.0,169.0
 ST15,SKU04203,CleanWave Frozen Vegetables 500g,Frozen Foods,NORMAL,17,0.07,0.05,2.0,3.0,False,0.0,0.0,10.0
-ST30,SKU02679,MetroBrand First Aid Small,Health & Wellness,NORMAL,8,0.2,0.15,4.0,6.0,False,1.0,486.7,0.0
+ST30,SKU02679,MetroBrand First Aid Small,Health & Wellness,NORMAL,8,0.2,0.15,4.0,6.0,False,0.0,0.0,0.0
 ST17,SKU04605,NatureBlend Chocolates Pack of 12,Snacks & Confectionery,SLOW_MOVER,119,0.01,0.01,1.0,2.0,False,0.0,0.0,117.0
 ST02,SKU00892,EverydayPlus Storage & Containers 500g,Home & Kitchen,NORMAL,99,0.01,0.01,1.0,2.0,False,0.0,0.0,97.0
 ST07,SKU01185,EliteHome Frozen Vegetables 2L,Frozen Foods,NORMAL,75,0.04,0.03,2.0,3.0,False,0.0,0.0,69.0
@@ -19023,7 +19023,7 @@ ST17,SKU03961,DailyBest Rice & Grains 250g,Grocery,SLOW_MOVER,228,0.01,0.01,1.0,
 ST07,SKU02880,UrbanBite Storage & Containers Family Pack,Home & Kitchen,NORMAL,42,0.1,0.08,3.0,4.0,False,0.0,0.0,32.0
 ST26,SKU04923,NutriPlus Biscuits & Cookies 250ml,Snacks & Confectionery,NORMAL,116,0.01,0.01,1.0,2.0,False,0.0,0.0,114.0
 ST15,SKU00775,PurePlus Candy 2kg,Snacks & Confectionery,SLOW_MOVER,420,0.02,0.02,1.0,2.0,False,0.0,0.0,417.0
-ST30,SKU01555,GreenValley Office Supplies Pack of 12,Stationery & Office,NORMAL,11,0.42,0.33,6.0,9.0,False,5.0,389.8,0.0
+ST30,SKU01555,GreenValley Office Supplies Pack of 12,Stationery & Office,NORMAL,11,0.42,0.33,6.0,9.0,False,0.0,0.0,0.0
 ST20,SKU01472,MetroBrand Sugar & Salt Large,Grocery,NORMAL,166,0.03,0.03,2.0,3.0,False,0.0,0.0,161.0
 ST03,SKU02299,ValueChoice Kids Wear Pack of 12,Apparel & Footwear,NORMAL,51,0.02,0.02,1.0,2.0,False,0.0,0.0,48.0
 ST04,SKU00213,ValueChoice Chocolates Pack of 6,Snacks & Confectionery,NORMAL,77,0.09,0.07,2.0,3.0,False,0.0,0.0,68.0
@@ -19162,7 +19162,7 @@ ST17,SKU01460,MetroBrand Coffee Small,Beverages,NORMAL,121,0.06,0.04,2.0,3.0,Fal
 ST29,SKU03526,QuickBite Laundry 2L,Home Care,NORMAL,48,0.03,0.03,2.0,3.0,False,0.0,0.0,43.0
 ST27,SKU01771,PremiumSelect Hair Care 100g,Personal Care,NORMAL,31,0.0,0.0,0.0,0.0,False,0.0,0.0,31.0
 ST12,SKU02068,SoftTouch Notebooks 1kg,Stationery & Office,STOCKOUT_RISK,53,0.27,0.21,4.0,6.0,False,0.0,0.0,30.0
-ST09,SKU01804,TrueTaste Pest Control Small,Home Care,NORMAL,11,0.39,0.3,5.0,8.0,False,4.0,594.36,0.0
+ST09,SKU01804,TrueTaste Pest Control Small,Home Care,NORMAL,11,0.39,0.3,5.0,8.0,False,0.0,0.0,0.0
 ST21,SKU02884,SparkleClean Juices Pack of 6,Beverages,NORMAL,9,0.08,0.06,2.0,3.0,False,0.0,0.0,1.0
 ST30,SKU01031,PrimeCare First Aid 500g,Health & Wellness,SLOW_MOVER,66,0.08,0.06,2.0,3.0,False,0.0,0.0,58.0
 ST26,SKU04445,NovaFresh First Aid 500g,Health & Wellness,NORMAL,241,0.09,0.07,3.0,4.0,False,0.0,0.0,231.0
@@ -19562,7 +19562,7 @@ ST09,SKU00662,SparkleClean Storage & Containers 500g,Home & Kitchen,SLOW_MOVER,2
 ST29,SKU00633,EverydayPlus Energy Drinks 500ml,Beverages,NORMAL,122,0.09,0.07,2.0,3.0,False,0.0,0.0,113.0
 ST09,SKU02539,PrimeCare Vitamins & Supplements 2kg,Health & Wellness,NORMAL,109,0.01,0.01,1.0,2.0,False,0.0,0.0,107.0
 ST02,SKU04516,CleanWave Kids Wear Pack of 12,Apparel & Footwear,NORMAL,117,0.0,0.0,0.0,0.0,False,0.0,0.0,117.0
-ST03,SKU01363,CrispKing Mobile Accessories 2L,Electronics & Accessories,STOCKOUT_RISK,19,0.72,0.56,7.0,11.0,False,5.0,10010.25,0.0
+ST03,SKU01363,CrispKing Mobile Accessories 2L,Electronics & Accessories,STOCKOUT_RISK,19,0.72,0.56,7.0,11.0,False,0.0,0.0,0.0
 ST14,SKU02100,PurePlus Air Fresheners 250ml,Home Care,NORMAL,150,0.26,0.2,4.0,6.0,False,0.0,0.0,128.0
 ST21,SKU03808,HealthFirst Small Appliances 2kg,Electronics & Accessories,NORMAL,88,0.13,0.1,4.0,5.0,False,0.0,0.0,74.0
 ST26,SKU03614,QuickBite Vitamins & Supplements 500ml,Health & Wellness,NORMAL,4,0.03,0.03,2.0,3.0,False,0.0,0.0,0.0
@@ -19640,7 +19640,7 @@ ST24,SKU00926,NutriPlus Soft Drinks 1L,Beverages,NORMAL,129,0.02,0.02,1.0,2.0,Fa
 ST17,SKU01047,HomeStyle Batteries 250ml,Electronics & Accessories,NORMAL,17,0.03,0.03,2.0,3.0,False,0.0,0.0,12.0
 ST20,SKU03601,PrimeCare Frozen Vegetables Medium,Frozen Foods,NORMAL,60,0.28,0.21,5.0,7.0,False,0.0,0.0,35.0
 ST18,SKU02047,NovaFresh Cheese Pack of 6,Dairy & Bakery,NORMAL,197,0.09,0.07,3.0,4.0,False,0.0,0.0,187.0
-ST03,SKU02663,QuickBite Chips & Crisps Large,Snacks & Confectionery,NORMAL,7,0.13,0.1,4.0,5.0,False,1.0,56.38,0.0
+ST03,SKU02663,QuickBite Chips & Crisps Large,Snacks & Confectionery,NORMAL,7,0.13,0.1,4.0,5.0,False,0.0,0.0,0.0
 ST10,SKU00772,PureLife Ready Meals 500g,Frozen Foods,NORMAL,49,0.01,0.01,1.0,2.0,False,0.0,0.0,47.0
 ST09,SKU03518,CityFresh Chocolates Pack of 6,Snacks & Confectionery,NORMAL,275,0.11,0.09,3.0,4.0,False,0.0,0.0,264.0
 ST15,SKU01493,ZestyCo Pest Control 100g,Home Care,NORMAL,19,0.08,0.06,2.0,3.0,False,0.0,0.0,11.0
@@ -19782,7 +19782,7 @@ ST17,SKU03687,DailyBest Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORM
 ST27,SKU03857,HomeStyle Eggs 1kg,Dairy & Bakery,NORMAL,259,0.04,0.03,2.0,3.0,False,0.0,0.0,253.0
 ST30,SKU02647,NovaFresh Home Decor Family Pack,Home & Kitchen,NORMAL,83,0.09,0.07,2.0,3.0,False,0.0,0.0,74.0
 ST19,SKU01187,CleanWave First Aid Large,Health & Wellness,SLOW_MOVER,132,0.01,0.01,1.0,2.0,False,0.0,0.0,130.0
-ST08,SKU04398,GoldenHarvest Storage & Containers 2L,Home & Kitchen,NORMAL,5,0.12,0.09,3.0,4.0,False,1.0,409.32,0.0
+ST08,SKU04398,GoldenHarvest Storage & Containers 2L,Home & Kitchen,NORMAL,5,0.12,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST30,SKU02676,EverydayPlus Home Decor Pack of 6,Home & Kitchen,NORMAL,57,0.08,0.06,2.0,3.0,False,0.0,0.0,49.0
 ST03,SKU04871,GreenValley Cookware 500ml,Home & Kitchen,NORMAL,0,0.22,0.17,4.0,6.0,True,10.0,4830.8,0.0
 ST21,SKU00332,UrbanBite Men's Wear 1L,Apparel & Footwear,NORMAL,7,0.08,0.06,2.0,3.0,False,0.0,0.0,0.0
@@ -19994,7 +19994,7 @@ ST03,SKU04350,NutriPlus Skin Care 250g,Personal Care,STOCKOUT_RISK,0,0.53,0.41,5
 ST09,SKU04421,HomeStyle Small Appliances 100g,Electronics & Accessories,NORMAL,190,0.02,0.02,1.0,2.0,False,0.0,0.0,187.0
 ST11,SKU02927,PurePlus Tea Large,Beverages,NORMAL,97,0.04,0.03,2.0,3.0,False,0.0,0.0,91.0
 ST12,SKU04944,MetroBrand Notebooks Pack of 6,Stationery & Office,NORMAL,41,0.11,0.09,3.0,4.0,False,0.0,0.0,30.0
-ST24,SKU04494,PurePlus Pulses & Lentils Large,Grocery,NORMAL,5,0.11,0.09,3.0,4.0,False,1.0,60.36,0.0
+ST24,SKU04494,PurePlus Pulses & Lentils Large,Grocery,NORMAL,5,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST06,SKU00918,CleanWave Vitamins & Supplements 2kg,Health & Wellness,NORMAL,95,0.17,0.13,3.0,4.0,False,0.0,0.0,80.0
 ST20,SKU00581,PrimeCare Small Appliances Small,Electronics & Accessories,NORMAL,30,0.03,0.03,2.0,3.0,False,0.0,0.0,25.0
 ST01,SKU04452,EverydayPlus Writing Instruments 100g,Stationery & Office,NORMAL,63,0.09,0.07,2.0,3.0,False,0.0,0.0,54.0
@@ -20061,7 +20061,7 @@ ST23,SKU03093,CleanWave Storage & Containers 1kg,Home & Kitchen,NORMAL,49,0.02,0
 ST12,SKU04950,NovaFresh Yogurt Pack of 12,Dairy & Bakery,NORMAL,45,0.07,0.05,3.0,4.0,False,0.0,0.0,37.0
 ST10,SKU03784,ValueChoice Mobile Accessories 1kg,Electronics & Accessories,NORMAL,65,0.08,0.06,2.0,3.0,False,0.0,0.0,57.0
 ST01,SKU03003,HomeStyle Chocolates 250ml,Snacks & Confectionery,NORMAL,125,0.07,0.05,3.0,4.0,False,0.0,0.0,117.0
-ST17,SKU03213,UrbanBite Spices & Seasoning Pack of 6,Grocery,NORMAL,9,0.28,0.21,4.0,6.0,False,2.0,267.5,0.0
+ST17,SKU03213,UrbanBite Spices & Seasoning Pack of 6,Grocery,NORMAL,9,0.28,0.21,4.0,6.0,False,0.0,0.0,0.0
 ST29,SKU01203,EliteHome Laundry Pack of 12,Home Care,NORMAL,49,0.2,0.15,4.0,6.0,False,0.0,0.0,31.0
 ST20,SKU03641,GreenValley Tea 1kg,Beverages,NORMAL,27,0.13,0.1,3.0,4.0,False,0.0,0.0,14.0
 ST15,SKU02990,FamilyChoice Laundry 250ml,Home Care,NORMAL,30,0.08,0.06,2.0,3.0,False,0.0,0.0,22.0
@@ -20077,7 +20077,7 @@ ST01,SKU01211,PremiumSelect Flour & Atta Medium,Grocery,NORMAL,37,0.04,0.03,1.0,
 ST07,SKU03468,PrimeCare Men's Grooming 250ml,Personal Care,NORMAL,20,0.11,0.09,3.0,4.0,False,0.0,0.0,9.0
 ST24,SKU03727,QuickBite Mobile Accessories 2kg,Electronics & Accessories,STOCKOUT_RISK,102,3.62,2.8,15.0,35.0,False,0.0,0.0,0.0
 ST02,SKU01314,FamilyChoice Rice & Grains 1kg,Grocery,NORMAL,82,0.03,0.03,2.0,3.0,False,0.0,0.0,77.0
-ST16,SKU04300,QuickBite Cookware Pack of 6,Home & Kitchen,NORMAL,5,0.11,0.09,3.0,4.0,False,1.0,1121.61,0.0
+ST16,SKU04300,QuickBite Cookware Pack of 6,Home & Kitchen,NORMAL,5,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST09,SKU00931,DailyBest Office Supplies 2L,Stationery & Office,NORMAL,9,0.04,0.03,2.0,3.0,False,0.0,0.0,3.0
 ST12,SKU03372,PurePlus Yogurt Family Pack,Dairy & Bakery,NORMAL,110,0.11,0.09,3.0,4.0,False,0.0,0.0,99.0
 ST02,SKU00430,NutriPlus Bottled Water 1kg,Beverages,NORMAL,13,0.0,0.0,0.0,0.0,False,0.0,0.0,13.0
@@ -20102,7 +20102,7 @@ ST09,SKU03419,EliteHome Men's Wear 500g,Apparel & Footwear,NORMAL,38,0.03,0.03,2
 ST27,SKU03754,CityFresh Sugar & Salt 1kg,Grocery,NORMAL,7,0.04,0.03,2.0,3.0,False,0.0,0.0,1.0
 ST23,SKU03111,QuickBite Air Fresheners 100g,Home Care,NORMAL,133,0.04,0.03,2.0,3.0,False,0.0,0.0,127.0
 ST09,SKU01061,PrimeCare Vitamins & Supplements 1L,Health & Wellness,NORMAL,84,0.04,0.03,2.0,3.0,False,0.0,0.0,78.0
-ST15,SKU03299,ZestyCo OTC Medicine 250ml,Health & Wellness,NORMAL,5,0.11,0.09,3.0,4.0,False,1.0,607.81,0.0
+ST15,SKU03299,ZestyCo OTC Medicine 250ml,Health & Wellness,NORMAL,5,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST21,SKU02364,QuickBite Women's Wear 2kg,Apparel & Footwear,NORMAL,38,0.06,0.04,2.0,3.0,False,0.0,0.0,32.0
 ST03,SKU04340,EverydayPlus Skin Care Medium,Personal Care,NORMAL,158,0.0,0.0,0.0,0.0,False,0.0,0.0,158.0
 ST18,SKU04455,GreenValley Chocolates 500g,Snacks & Confectionery,NORMAL,271,0.09,0.07,3.0,4.0,False,0.0,0.0,261.0
@@ -20259,7 +20259,7 @@ ST14,SKU03936,DailyBest OTC Medicine 500ml,Health & Wellness,NORMAL,60,0.11,0.09
 ST16,SKU01178,GreenValley Coffee 1kg,Beverages,NORMAL,1,0.04,0.03,2.0,3.0,True,3.0,224.22,0.0
 ST21,SKU02083,SunriseFoods Writing Instruments Small,Stationery & Office,NORMAL,3,0.07,0.05,2.0,3.0,True,1.0,101.78,0.0
 ST09,SKU00527,FreshFarm Ice Cream 250ml,Frozen Foods,NORMAL,96,0.1,0.08,2.0,3.0,False,0.0,0.0,87.0
-ST22,SKU00909,FamilyChoice Air Fresheners Medium,Home Care,NORMAL,5,0.12,0.09,3.0,4.0,False,1.0,278.89,0.0
+ST22,SKU00909,FamilyChoice Air Fresheners Medium,Home Care,NORMAL,5,0.12,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST21,SKU00450,DailyBest OTC Medicine 2kg,Health & Wellness,NORMAL,7,0.08,0.06,2.0,3.0,False,0.0,0.0,0.0
 ST18,SKU03189,FamilyChoice Storage & Containers Pack of 12,Home & Kitchen,NORMAL,88,0.14,0.11,3.0,4.0,False,0.0,0.0,74.0
 ST27,SKU03584,MetroBrand Writing Instruments Pack of 12,Stationery & Office,NORMAL,115,0.28,0.21,4.0,6.0,False,0.0,0.0,91.0
@@ -20345,7 +20345,7 @@ ST21,SKU02558,PrimeCare Butter & Ghee 2L,Dairy & Bakery,SLOW_MOVER,99,0.02,0.02,
 ST05,SKU03961,DailyBest Rice & Grains 250g,Grocery,SLOW_MOVER,315,0.0,0.0,0.0,0.0,False,0.0,0.0,315.0
 ST28,SKU04178,HealthFirst Laundry Medium,Home Care,NORMAL,30,0.04,0.03,2.0,3.0,False,0.0,0.0,24.0
 ST19,SKU03984,SparkleClean Ready Meals 1kg,Frozen Foods,NORMAL,145,0.02,0.02,1.0,2.0,False,0.0,0.0,142.0
-ST29,SKU03077,UrbanBite Ice Cream Small,Frozen Foods,NORMAL,12,0.5,0.39,6.0,9.0,False,6.0,1722.78,0.0
+ST29,SKU03077,UrbanBite Ice Cream Small,Frozen Foods,NORMAL,12,0.5,0.39,6.0,9.0,False,0.0,0.0,0.0
 ST21,SKU00147,EliteHome Cookware Family Pack,Home & Kitchen,NORMAL,14,0.08,0.06,2.0,3.0,False,0.0,0.0,6.0
 ST25,SKU01968,BasicNeeds Ice Cream 2kg,Frozen Foods,NORMAL,24,0.01,0.01,1.0,2.0,False,0.0,0.0,22.0
 ST13,SKU01544,NatureBlend Bath & Body Pack of 6,Personal Care,NORMAL,10,0.17,0.13,3.0,4.0,False,0.0,0.0,0.0
@@ -20399,7 +20399,7 @@ ST05,SKU00364,NutriPlus Footwear 250g,Apparel & Footwear,NORMAL,74,0.09,0.07,3.0
 ST01,SKU01150,HomeStyle Pulses & Lentils 250g,Grocery,NORMAL,4,0.01,0.01,1.0,2.0,False,0.0,0.0,2.0
 ST11,SKU00717,ZestyCo Kids Wear Small,Apparel & Footwear,NORMAL,114,0.01,0.01,1.0,2.0,False,0.0,0.0,112.0
 ST19,SKU02442,HealthFirst Bath & Body 2L,Personal Care,NORMAL,37,0.12,0.09,3.0,4.0,False,0.0,0.0,25.0
-ST21,SKU03687,DailyBest Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORMAL,6,0.19,0.15,3.0,5.0,False,2.0,157.16,0.0
+ST21,SKU03687,DailyBest Biscuits & Cookies Pack of 6,Snacks & Confectionery,NORMAL,6,0.19,0.15,3.0,5.0,False,0.0,0.0,0.0
 ST29,SKU01162,CrispKing Hair Care Family Pack,Personal Care,NORMAL,132,0.1,0.08,3.0,4.0,False,0.0,0.0,122.0
 ST07,SKU01635,ZestyCo Mobile Accessories 250ml,Electronics & Accessories,NORMAL,8,0.11,0.09,3.0,4.0,False,0.0,0.0,0.0
 ST27,SKU02015,GreenValley Writing Instruments 2kg,Stationery & Office,NORMAL,36,0.13,0.1,3.0,4.0,False,0.0,0.0,23.0
@@ -20872,7 +20872,7 @@ ST23,SKU03789,BasicNeeds Small Appliances 2L,Electronics & Accessories,NORMAL,11
 ST21,SKU04289,HomeStyle Hair Care 250g,Personal Care,NORMAL,147,0.1,0.08,3.0,4.0,False,0.0,0.0,137.0
 ST11,SKU03430,PremiumSelect Flour & Atta 250g,Grocery,NORMAL,47,0.03,0.03,2.0,3.0,False,0.0,0.0,42.0
 ST06,SKU04155,NovaFresh Batteries 2kg,Electronics & Accessories,NORMAL,74,0.19,0.15,4.0,6.0,False,0.0,0.0,56.0
-ST04,SKU01416,EverydayPlus Dishwashing 250ml,Home Care,NORMAL,6,0.18,0.14,4.0,5.0,False,3.0,313.92,0.0
+ST04,SKU01416,EverydayPlus Dishwashing 250ml,Home Care,NORMAL,6,0.18,0.14,4.0,5.0,False,0.0,0.0,0.0
 ST29,SKU01888,TrueTaste Flour & Atta 2L,Grocery,NORMAL,62,0.11,0.09,3.0,4.0,False,0.0,0.0,51.0
 ST29,SKU02867,PureLife Frozen Meat Medium,Frozen Foods,NORMAL,189,0.09,0.07,3.0,4.0,False,0.0,0.0,179.0
 ST04,SKU00494,QuickBite Air Fresheners 2L,Home Care,NORMAL,42,0.04,0.03,2.0,3.0,False,0.0,0.0,36.0
