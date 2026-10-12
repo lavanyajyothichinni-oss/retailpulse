@@ -1,12 +1,3 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-prophet
-torch
-xgboost
-shap
-pyarrow
-openpyxl
+   streamlit
+   pandas
+   plotly
